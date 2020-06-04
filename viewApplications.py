@@ -113,7 +113,7 @@ def create_frame(top):
     Label5.configure(disabledforeground="#a3a3a3")
     Label5.configure(font=font1)
     Label5.configure(foreground="#000000")
-    Label5.configure(text='''Apply''')
+    Label5.configure(text='''Delete''')
 
     database = r"job.db"
 
